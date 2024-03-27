@@ -51,7 +51,7 @@ solution_3 = (first_calc * solution_2)
 Specific_impulse = round(solution_3, 2) 
 
 #print out Specific impulse
-print(f'The Specific impulse is {Specific_impulse}')
+print(f'The Specific Impulse is {Specific_impulse}')
 
 
 
